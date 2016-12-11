@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TimeTrack</string>
+
+    <!-- Text hint for class name  -->
+    <string name="hint_class_name">Class Name</string>
+
+    <!-- Text hint for taskname -->
+    <string name="hint_task_name">Task Name</string>
+
+    <!-- Text hint for start time -->
+    <string name="hint_start_time">Start Time</string>
+
+    <!-- Text hint for end time -->
+    <string name="hint_end_time">End Time</string>
+
+    <!-- Text hint for lecture name -->
+    <string name="hint_lecture_name">Lecture Name</string>
+    <string name="title_activity_main4">Main4Activity</string>
+</resources>
