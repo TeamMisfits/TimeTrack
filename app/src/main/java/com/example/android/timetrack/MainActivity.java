@@ -130,10 +130,7 @@ public class MainActivity extends AppCompatActivity {
         {
             return;
         }
-        if (cursor.getCount() == 0)
-        {
-            return;
-        }
+
 
         //which column from the cursor will be used for the adapter
         String[] columns = new String[] {TimerEntry.COLUMN_CLASS_NAME,};
