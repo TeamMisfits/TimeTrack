@@ -221,10 +221,6 @@ public class DisplayClass extends AppCompatActivity {
         {
             return;
         }
-        if (cursor.getCount() == 0)
-        {
-            return;
-        }
 
         //Which columns to look in
         String[] columns = new String[] {TimerContract.TimerEntry.COLUMN_TASK_NAME,};
